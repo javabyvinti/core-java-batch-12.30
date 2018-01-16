@@ -1,0 +1,58 @@
+--> Identifiers
+
+	--> class name, variable name, method name, 	constructor name, etc 
+
+syntax:
+	--> can be of any length.
+	--> can start with letters and $ and _ but cannot 
+		start with number.
+	--> case-sensitive
+	--> no whitespace is allowed	
+	--> no keyword can be used
+
+	String String = "Hello";
+	
+	String Hello;
+
+
+	int v
+
+--> Keywords
+
+	--> Resereved or predefined words
+	--> int, char, break, if, switch, do, while, etc.
+
+
+--> variables
+
+two types:
+	varying variables:
+	value can be changed either at compile time or at run time.
+
+	eg:
+		int value = 10;
+		String name = "Ram";
+
+	--> datatype variable_name = initialization;	
+	--> has a type and a value;
+
+--> Fixed type variable:
+	value cannot be changed neither at compile time nor at runtime
+
+	final int value = 10;
+
+	value = value + 10;	//error
+
+
+--> Datatypes
+	
+	--> Built-in or Primitive type
+
+	eg --> int, float, char, double, long, byte, 				short, boolean;
+
+	--> Reference type
+	eg--> Integer, Float, Character, Double, Byte, 	Short, Boolean;	
+
+
+
+== --> reference type --> check the address

@@ -1,0 +1,29 @@
+core java --> desktop based app 
+eg --> notepad, calc, games
+
+1995 --> c and c++ --> platform dependent
+
+platform --> OS (window) + hardware --> 32 bits, 64 bits
+
+
+(src code).c or .cpp --> cpp compiler --> machine code/ native code(platform dependent --> memory location, os, bits )
+
+
+
+(src code).java --> java compiler-->(.class)bytecode --> jvm(java virtual machine) --> native code/machine code
+
+
+
+bytecode --> intermediate code
+
+
+open source --> free install, src code, modify, re-distribute
+
+
+
+
+
+
+
+
+
